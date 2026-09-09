@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Return Policy",
+    "content": "Customers can return any unopened product within 30 days of delivery for a full refund. Opened products can be exchanged within 14 days if defective. Refunds are processed within 5-7 business days after the returned item is received at our warehouse."
+  },
+  {
+    "title": "Shipping Times",
+    "content": "Standard shipping takes 3-5 business days within the country. Express shipping takes 1-2 business days and costs an additional fee. International orders take 7-14 business days depending on customs processing in the destination country."
+  },
+  {
+    "title": "Order Tracking",
+    "content": "Once an order ships, customers receive a tracking number by email. Tracking can be checked on our website under 'My Orders' or directly through the carrier's website using that tracking number."
+  },
+  {
+    "title": "Payment Methods",
+    "content": "We accept all major credit cards, PayPal, and Apple Pay. Payment is charged at the time of order confirmation, not at shipping. We do not currently support installment payments or buy-now-pay-later options."
+  }
+]
